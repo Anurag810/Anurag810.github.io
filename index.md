@@ -2,7 +2,7 @@
 
 ### [Your Job Title]
 **[Location]**  
-[Your Email] | [Your Phone Number] | [Your LinkedIn] | [Your GitHub/Portfolio Website]
+[Your Email] | [Your Phone Number] | [Your LinkedIn] | [Your GitHub/Portfolio Website]...
 
 ---
 
