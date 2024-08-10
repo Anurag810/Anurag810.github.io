@@ -1,0 +1,16 @@
+# _config.yml
+
+theme: just-the-docs
+title: My Portfolio
+description: Welcome to my portfolio!
+
+# Sidebar navigation
+just_the_docs:
+  collections:
+    nav:
+      - title: "About"
+        url: "/about/"
+      - title: "Projects"
+        url: "/projects/"
+      - title: "Contact"
+        url: "/contact/"
